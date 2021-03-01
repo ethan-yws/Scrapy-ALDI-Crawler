@@ -1,6 +1,9 @@
 # Scrapy ALDI Crawler
  Python Scrapy Crawler for aldi.com.au
  
+ ##### Spider code: [aldiSpider.py](https://github.com/ethan-yws/Scrapy-ALDI-Crawler/blob/main/aldiCrawler/spiders/aldiSpider.py)
+ ##### Output CSV: [aldi_products.csv](https://github.com/ethan-yws/Scrapy-ALDI-Crawler/blob/main/aldi_products.csv)
+ 
 ### Note
  This crawler collects the products infomation under Groceries category on aldi.com.au  
  Most products item can be found on the first-level subpages i.e. https://www.aldi.com.au/en/groceries/super-savers/  
